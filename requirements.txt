@@ -1,0 +1,11 @@
+pypulseq >= 1.4.0
+numpy >=1.20.0
+matplotlib>=3.4.0
+scipy>=1.6.0
+h5py>=3.2.0
+nibabel>=3.2.0
+furo==2021.4.11b34
+jinja2<3.1.0 
+pytest>=6.2.0
+flake8>6.1.0
+git+https://github.com/imr-framework/pypulseq.git
